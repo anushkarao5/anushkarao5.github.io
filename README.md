@@ -4,7 +4,7 @@
 
 ## Projects 
 
-#### [Detecting Gliomas, Meningiomas, and Pituitary Brain Tumors Using Convolutional Neural Networks] (https://github.com/anushkarao5/BrainTumorDetectionCNN)
+#### [Detecting Gliomas, Meningiomas, and Pituitary Brain Tumors Using Convolutional Neural Networks](https://github.com/anushkarao5/BrainTumorDetectionCNN)
 - Developed a simple CNN with a minimum of 86.5% recall in all tumor classes and an average recall of 93.8% in the tumor classes
 - Applied transfer learning to EfficientNetB0 model to achieve over 95% recall in all tumor classes and 95.7% average recall in the tumor classes
 
