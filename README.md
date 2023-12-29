@@ -7,6 +7,9 @@
 #### [Brain Tumors Detection Using Convolutional Neural Networks](https://github.com/anushkarao5/BrainTumorDetectionCNN)
 - Developed a simple CNN with a minimum of 86.5% recall in all tumor classes and an average recall of 93.8% in the tumor classes
 - Applied transfer learning to EfficientNetB0 model to achieve over 95% recall in all tumor classes and 95.7% average recall in the tumor classes
+<p align="center">
+  <img src="assets/Images/brain_tumor.jpeg" alt="Image Alt Text" width="500px" height="auto">
+</p>
 
 #### [Superconductor Regression Analysis](https://github.com/anushkarao5/SuperconductorRegressionAnalysis?tab=readme-ov-file)
 - Developed a Random Forest model that predicted the critical temperature of a superconductor with root mean square error of 9.41 and R^2 value of 0.92
