@@ -1,5 +1,5 @@
 title: Anushka Rao
-logo: /assets/Images/headshot.png
+#logo: /assets/Images/headshot.png
 description: Data Science Student at UC Davis
 # show_downloads: true
 theme: jekyll-theme-minimal
