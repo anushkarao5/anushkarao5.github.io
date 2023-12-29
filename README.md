@@ -15,6 +15,9 @@
 - Developed a Random Forest model that predicted the critical temperature of a superconductor with root mean square error of 9.41 and R^2 value of 0.92
 - Found a subset of 13 of 81 features whose variance explained a minimum of 65% of the variability in the target variable for all non tree-based models
 - Found a subset of 25 of 81 features whose variance explained a minimum of 65% of the variability in the target variable for all non-neural network models
+<p align="center">
+  <img src="assets/Images/superconductor.png" alt="Image Alt Text" width="500px" height="auto">
+</p>
 
 #### [US Airlines Twitter Sentiment Analysis](https://github.com/anushkarao5/USAirlinesSentimentAnalysis?tab=readme-ov-file)
 
