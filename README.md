@@ -24,6 +24,8 @@
 - Developed a logistic regression classifier using bag of words text vectorization that resulted in an average minority class recall of 73% and overall accuracy of 77%
 - Developed a convolutional neural network using pre-trained GloVe word embeddings that resulted in an average minority recall of 68.3%
 - Developed an LSTM neural network using pre-trained GloVe word embeddings that resulted in an average minority recall of 67.5%
-
+<p align="center">
+  <img src="assets/Images/nlp.jpeg" alt="Image Alt Text" width="500px" height="auto">
+</p>
 
 
