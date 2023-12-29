@@ -11,6 +11,8 @@
   <img src="assets/Images/brain_tumor.jpeg" alt="Image Alt Text" width="500px" height="auto">
 </p>
 
+![Brain Tumor](/assets/Images/brain_tumor.jpeg)
+
 #### [Superconductor Regression Analysis](https://github.com/anushkarao5/SuperconductorRegressionAnalysis?tab=readme-ov-file)
 - Developed a Random Forest model that predicted the critical temperature of a superconductor with root mean square error of 9.41 and R^2 value of 0.92
 - Found a subset of 13 of 81 features whose variance explained a minimum of 65% of the variability in the target variable for all non tree-based models
