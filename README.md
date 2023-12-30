@@ -11,7 +11,9 @@
 <p align="center">
   <img src="assets/Images/brain_tumor.jpeg" alt="Image Alt Text" width="400px" height="auto">
 </p>
-
+<p align="center">
+  <a href="https://awaregleneaglesglobalhospitallbnagar.com/health-plus-blog/what-are-the-common-sign-and-symptoms-of-a-brain-tumour/">Image Credits</a>
+</p>
 
 #### [Superconductor Regression Analysis](https://github.com/anushkarao5/SuperconductorRegressionAnalysis?tab=readme-ov-file)
 - Developed a Random Forest model to predict the critical temperature of a superconductor with RMSE of 9.41 and R^2 value of 0.92
