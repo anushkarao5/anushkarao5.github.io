@@ -22,7 +22,6 @@
   <img src="assets/Images/superconductor.png" alt="Image Alt Text" width="400px" height="auto">
 </p>
 <p align="center">
-  <a href="<p align="center">
   <a href="https://futurism.com/claim-room-temperature-superconductor-tearing-apart">Image Credits</a>
 </p>
 
