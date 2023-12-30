@@ -2,7 +2,6 @@
 
 #### Technical Skills: Python, R, MATLAB, Machine Learning 
   Email: [arrrao@ucdavis.edu](mailto:arrrao@ucdavis.edu)  
-  <br>
   LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
 
 
