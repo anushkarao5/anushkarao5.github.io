@@ -1,6 +1,6 @@
 # Data Science Student
 
-#### Technical Skills: Python, MATLAB, R, Machine Learning 
+#### Technical Skills: Python, R, MATLAB, Machine Learning 
 
 ## Projects 
 
