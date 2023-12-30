@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <a href="<p align="center">
-  <a href="https://awaregleneaglesglobalhospitallbnagar.com/health-plus-blog/what-are-the-common-sign-and-symptoms-of-a-brain-tumour/">Image Credits</a>
+  <a href="https://futurism.com/claim-room-temperature-superconductor-tearing-apart">Image Credits</a>
 </p>
 
 
