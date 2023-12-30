@@ -1,6 +1,10 @@
 title: Anushka Rao
 #logo: /assets/Images/headshot.png
-description: Data Science Student at UC Davis
-arrrao.ucdavis.edu
+description: |
+  Data Science Student at UC Davis
+  <br>
+  Email: [arrrao@ucdavis.edu](mailto:arrrao@ucdavis.edu)
+  <br>
+  LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
 # show_downloads: true
 theme: jekyll-theme-minimal
