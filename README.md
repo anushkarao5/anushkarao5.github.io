@@ -35,5 +35,8 @@
 <p align="center">
   <img src="assets/Images/nlp.jpeg" alt="Image Alt Text" width="400px" height="auto">
 </p>
+<p align="center">
+  <a href="https://www.dataversity.net/what-is-natural-language-processing-nlp/">Image Credits</a>
+</p>
 
 
