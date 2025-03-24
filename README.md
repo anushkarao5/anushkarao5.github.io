@@ -3,12 +3,7 @@
   Email: [arrrao@ucdavis.edu](mailto:arrrao@ucdavis.edu)  
   LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
 
-### Skills:
-- Domains: Data Processing, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP
-- Languages: Python, SQL, R
-- Software: AWS, Kubernetes, Docker, Git, PostgreSQL, MySQL, Microsoft Office
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, Keras, OpenCV, Dplyr, Ggplot2
-
+Third Year Data Science Student Interested in Data Science Applications in Science, Technology, and Buisness
 ## Projects 
 
 #### [Brain Tumors Detection Using Convolutional Neural Networks](https://github.com/anushkarao5/BrainTumorDetectionCNN)
@@ -44,5 +39,11 @@
 <p align="center">
   <a href="https://www.dataversity.net/what-is-natural-language-processing-nlp/">Image Credits</a>
 </p>
+
+### Skills:
+- Domains: Data Processing, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP
+- Languages: Python, SQL, R
+- Software: AWS, Kubernetes, Docker, Git, PostgreSQL, MySQL, Microsoft Office
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, Keras, OpenCV, Dplyr, Ggplot2
 
 
