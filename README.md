@@ -1,5 +1,9 @@
 # Data Science Student
 
+  Email: [arrrao@ucdavis.edu](mailto:arrrao@ucdavis.edu)  
+  LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
+
+
 *Third Year Data Science Student Interested in Data Science Applications in Science, Technology, and Business*
 ## Projects 
 
