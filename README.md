@@ -3,7 +3,7 @@
   Email: [arrrao@ucdavis.edu](mailto:arrrao@ucdavis.edu)  
   LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
 
-Skills:
+### Skills:
 - Domains: Data Processing, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP
 - Languages: Python, SQL, R
 - Software: AWS, Kubernetes, Docker, Git, PostgreSQL, MySQL, Microsoft Office
