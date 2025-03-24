@@ -9,7 +9,6 @@
 #### [Brain Tumors Detection Using Convolutional Neural Networks](https://github.com/anushkarao5/BrainTumorDetectionCNN)
 - Engineered a three-layered CNN classifier model, trained on a dataset of 5700 human brain MRIs, to detect 3 brain tumor types with 94% average recall. This model-based categorization can expedite diagnostic decision-making for healthcare professionals. 
 - Improved model performance by implementing pre-trained ResNet50 and EfficientNetB0 models, achieving 95% and 96% average recalls, respectively.
-- Applied transfer learning to EfficientNetB0 model to achieve over 95% recall in all tumor classes and an average tumor recall of 95.7% 
 <p align="center">
   <img src="assets/Images/brain_tumor.jpeg" alt="Image Alt Text" width="400px" height="auto">
 </p>
