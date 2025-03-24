@@ -3,7 +3,7 @@
   Email: [arrrao@ucdavis.edu](mailto:arrrao@ucdavis.edu)  
   LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
 
-Third Year Data Science Student Interested in Data Science Applications in Science, Technology, and Buisness
+*Third Year Data Science Student Interested in Data Science Applications in Science, Technology, and Business*
 ## Projects 
 
 #### [Brain Tumors Detection Using Convolutional Neural Networks](https://github.com/anushkarao5/BrainTumorDetectionCNN)
