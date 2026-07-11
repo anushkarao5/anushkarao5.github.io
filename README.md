@@ -1,4 +1,4 @@
-# Data Science Student
+# Data Science Graduate
 
   Email: [anushka.rao96@gmail.com](mailto:anushka.rao96@gmail.com)  
   LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
@@ -41,10 +41,10 @@
 </p>
 
 ### Skills:
-Programming: Python, SQL, R
-ML/AI Frameworks: PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy
-Data & Infrastructure: AWS, Docker, Kubernetes, PostgreSQL, MySQL, Git
-Domains: Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, Data Processing
+- Programming: Python, SQL, R
+- ML/AI Frameworks: PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy
+- Data & Infrastructure: AWS, Docker, Kubernetes, PostgreSQL, MySQL, Git
+- Domains: Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, Data Processing
 
 
 
