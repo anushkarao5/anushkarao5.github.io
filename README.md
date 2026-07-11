@@ -1,10 +1,10 @@
 # Data Science Student
 
-  Email: [arrrao@ucdavis.edu](mailto:arrrao@ucdavis.edu)  
+  Email: [anushka.rao96@gmail.com](mailto:anushka.rao96@gmail.com)  
   LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
 
 
-*Third Year Data Science Student Interested in Data Science Applications in Science, Technology, and Business*
+*Data Science Graduate Applying Machine Learning and Statistics to Engineering, Science, and Business Problems*
 ## Projects 
 
 #### [Brain Tumors Detection Using Convolutional Neural Networks](https://github.com/anushkarao5/BrainTumorDetectionCNN)
@@ -41,9 +41,10 @@
 </p>
 
 ### Skills:
-- Domains: Data Processing, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP
-- Languages: Python, SQL, R
-- Software: AWS, Kubernetes, Docker, Git, PostgreSQL, MySQL, Microsoft Office
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, Keras, OpenCV, Dplyr, Ggplot2
+Programming: Python, SQL, R
+ML/AI Frameworks: PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy
+Data & Infrastructure: AWS, Docker, Kubernetes, PostgreSQL, MySQL, Git
+Domains: Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, Data Processing
+
 
 
