@@ -1,4 +1,4 @@
-# Data Science Graduate
+# Data Scientist 
 
   Email: [anushka.rao96@gmail.com](mailto:anushka.rao96@gmail.com)  
   LinkedIn: [anushkarao5](https://www.linkedin.com/in/anushkarao5/)
