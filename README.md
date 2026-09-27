@@ -28,11 +28,12 @@
 </p>
 
 
-### [SaaS Dashboard Creation] (https://github.com/anushkarao5/SAAS_Dashboard_Analytics/blob/main/README.md) 
+### [SaaS Dashboard Creation](https://github.com/anushkarao5/SAAS_Dashboard_Analytics/blob/main/README.md)
 - Built an Apache Superset SaaS analytics dashboard using SQL to analyze revenue, customer growth, acquisition costs, and plan performance across monthly trends and customer segments.
-<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0634575-7a16-4f9c-b753-fe6c8c6a96ac" />
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0634575-7a16-4f9c-b753-fe6c8c6a96ac" alt="SaaS Analytics Dashboard" width="400px" height="auto">
+</p>
 
 
 #### [US Airlines Twitter Sentiment Analysis](https://github.com/anushkarao5/USAirlinesSentimentAnalysis?tab=readme-ov-file)
